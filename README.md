@@ -1,4 +1,4 @@
-# Maze-Solver
+# Maze Solver
 This is a Java program that creates and solves a random maze. I created this project as a way to explore both depth and breadth first searches. The program starts by displaying a new maze as it starts to solve it with depth-first; once it solves the maze with depth-first, it moves on to breadth-first. Once both have finished, it displays the shortest path! For the graphics, I used the STD library for Java.
 
 Images:
